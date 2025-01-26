@@ -9,7 +9,6 @@ const Navbar = () => {
           <li>Gift Ideas</li>
           <li>New Releases</li>
           <li>Today's Deals</li>
-          <li>Customer Service</li>
         </ul>
       </div>
     </div>
